@@ -1,3 +1,3 @@
-**Spring Bean Lifecycle**
+**Spring Bean Lifecycle:**
 
-https://reflectoring.io/spring-bean-lifecycle/
+- https://reflectoring.io/spring-bean-lifecycle/
