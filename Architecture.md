@@ -7,3 +7,6 @@
 
 **Coupling & Cohesion**
 - https://www.baeldung.com/cs/cohesion-vs-coupling
+
+**Layered architecture**
+- https://herbertograca.com/2017/08/03/layered-architecture/
