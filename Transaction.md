@@ -8,3 +8,6 @@
 
 **ACID**
 - https://www.ibm.com/docs/en/cics-ts/5.4?topic=processing-acid-properties-transactions
+
+**Distributed transactions**
+- https://piotrminkowski.com/2020/06/19/distributed-transactions-in-microservices-with-spring-boot/
