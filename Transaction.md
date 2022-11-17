@@ -5,6 +5,7 @@
 
 **Isolation levels**
 - https://vladmihalcea.com/a-beginners-guide-to-transaction-isolation-levels-in-enterprise-java/
+- https://www.geeksforgeeks.org/transaction-isolation-levels-dbms/
 
 **ACID**
 - https://www.ibm.com/docs/en/cics-ts/5.4?topic=processing-acid-properties-transactions
