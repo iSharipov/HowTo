@@ -5,4 +5,4 @@
 - https://learn.microsoft.com/en-us/java/openjdk/reasons-to-move-to-java-11
 
 **Java 8**
-https://www.nagarro.com/en/blog/post/24/performance-improvement-for-hashmap-in-java-8
+- https://www.nagarro.com/en/blog/post/24/performance-improvement-for-hashmap-in-java-8
