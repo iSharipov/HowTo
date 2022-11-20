@@ -10,3 +10,6 @@
 
 **Layered architecture**
 - https://herbertograca.com/2017/08/03/layered-architecture/
+
+**Microservices architecture**
+- https://springone.io/2020/sessions/introducing-saga-pattern-in-microservices-with-spring-statemachine
